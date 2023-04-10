@@ -1,0 +1,391 @@
+Sample ID,Diagnosis Age,Bone Marrow Blast Percentage,Mutation Count,PB Blast Percentage,WBC,Sex,Race,Cytogenetic Info,ELN Risk Classification,Treatment Intensity
+id-2802-03,50,88,9,52,16.9,M,WHITE,Normal Karyotype,2,High Intensity
+id-2803-03,61,44,13,34.5,1,F,WHITE,PML-RARA,1,Regular
+id-2804-03,30,82,7,34.5,5.7,M,WHITE,PML-RARA,2,Regular
+id-2805-03,77,67,12,56,92,M,WHITE,Normal Karyotype,2,Regular
+id-2806-03,46,90,17,81,29.4,M,WHITE,RUNX1-RUNX1T1,1,Target therapy
+id-2807-03,68,91,26,55,3.1,F,WHITE,Intermediate Risk Cytogenetics,2,High Intensity
+id-2808-03,23,59,9,34.5,32.4,M,WHITE,Intermediate Risk Cytogenetics,2,Regular
+id-2809-03,64,60,4,34.5,116.5,F,WHITE,Normal Karyotype,2,Regular
+id-2810-03,76,48,12,88,61.6,F,BLACK,N.D.,3,High Intensity
+id-2811-03,81,98,9,37,90.6,M,WHITE,Normal Karyotype,2,High Intensity
+id-2812-03,25,53,7,87,34.2,F,black,Normal Karyotype,2,Regular
+id-2813-03,78,40,15,6,9.9,M,WHITE,Complex Cytogenetics,3,Low intensity
+id-2814-03,39,75,8,4,2.3,F,WHITE,Poor Risk Cytogenetics,3,High Intensity
+id-2815-03,49,81,9,48,57.1,M,WHITE,CBFB-MYH11,1,Regular
+id-2816-03,57,90,6,84,87.5,F,WHITE,Normal Karyotype,2,High Intensity
+id-2817-03,63,57,12,70,77.3,M,WHITE,BCR-ABL1,3,Regular
+id-2818-03,62,46,8,53,75.2,F,ASIAN,Normal Karyotype,2,High Intensity
+id-2819-03,52,67,10,18,4.1,F,WHITE,RUNX1-RUNX1T1,1,Low intensity
+id-2820-03,76,74,13,82,14.5,M,BLACK,Complex Cytogenetics,3,Regular
+id-2821-03,64,60,12,5,1.2,M,WHITE,Intermediate Risk Cytogenetics,2,Target therapy
+id-2822-03,65,99,17,34,2.9,M,WHITE,Intermediate Risk Cytogenetics,2,Target therapy
+id-2823-03,61,73,1,68,86.4,F,WHITE,PML-RARA,1,Low intensity
+id-2824-03,44,74,5,5,8.8,M,WHITE,Normal Karyotype,2,High Intensity
+id-2825-03,31,83,3,6,137.2,F,WHITE,Normal Karyotype,2,High Intensity
+id-2826-03,64,72,5,90,131.5,F,WHITE,Normal Karyotype,2,Target therapy
+id-2827-03,33,33,8,0,2.8,M,WHITE,Normal Karyotype,2,Regular
+id-2828-03,55,35,9,8,22.2,M,WHITE,CBFB-MYH11,1,Low intensity
+id-2829-03,50,70,9,0,5.5,M,BLACK,N.D.,3,High Intensity
+id-2830-03,64,85,14,22,2.9,F,WHITE,Intermediate Risk Cytogenetics,2,High Intensity
+id-2831-03,59,61,2,2,1.4,M,WHITE,Normal Karyotype,2,Regular
+id-2832-03,59,95,8,0,12.1,F,WHITE,MLL Translocation,2,High Intensity
+id-2833-03,77,80,8,2,40.4,M,WHITE,Normal Karyotype,2,High Intensity
+id-2834-03,33,71,1,14,25.9,M,WHITE,MLL Translocation,3,High Intensity
+id-2835-03,48,83,3,3,116.2,M,WHITE,Normal Karyotype,2,High Intensity
+id-2836-03,35,90,4,18,52.9,M,WHITE,Normal Karyotype,2,High Intensity
+id-2837-03,66,90,1,7,111.8,F,WHITE,Normal Karyotype,2,Low intensity
+id-2838-03,67,50,15,17,2.1,M,WHITE,Complex Cytogenetics,3,Target therapy
+id-2839-03,51,64,18,79,42.1,F,WHITE,Normal Karyotype,2,High Intensity
+id-2840-03,74,51,1,34.5,31.5,M,WHITE,PML-RARA,1,Regular
+id-2841-03,51,93,2,40,3.6,F,WHITE,PML-RARA,1,Regular
+id-2842-03,64,95,1,0,2.3,M,WHITE,MLL Translocation,2,Regular
+id-2843-03,77,75,10,8,2.6,M,WHITE,Intermediate Risk Cytogenetics,2,High Intensity
+id-2844-03,63,80,13,71,17,M,WHITE,MLL Translocation,3,Regular
+id-2845-03,37,52,6,33,18.7,F,WHITE,Normal Karyotype,2,High Intensity
+id-2846-03,57,61,14,17,13.6,F,WHITE,CBFB-MYH11,1,Target therapy
+id-2847-03,53,72,6,41,2.7,M,WHITE,Poor Risk Cytogenetics,3,Regular
+id-2848-03,62,65,1,65,118.8,M,WHITE,Normal Karyotype,2,High Intensity
+id-2849-03,39,83,22,53,5,M,WHITE,Complex Cytogenetics,3,Regular
+id-2850-03,72,45,6,0,3,F,BLACK,N.D.,3,High Intensity
+id-2851-03,66,32,7,11,78.5,F,WHITE,Normal Karyotype,2,Target therapy
+id-2853-03,51,85,7,85,103.6,M,WHITE,Normal Karyotype,2,Regular
+id-2854-03,51,73,9,2,2.9,F,WHITE,Intermediate Risk Cytogenetics,2,Low intensity
+id-2855-03,18,86,4,90,41.5,M,WHITE,Complex Cytogenetics,3,Regular
+id-2856-03,63,82,9,39,76.7,M,WHITE,NUP98 Translocation,2,High Intensity
+id-2857-03,54,30,9,0,2.3,M,WHITE,Complex Cytogenetics,3,High Intensity
+id-2858-03,75,48,10,54,8.3,F,WHITE,RUNX1-RUNX1T1,1,Regular
+id-2859-03,40,47,10,23,8.3,M,BLACK,Normal Karyotype,2,High Intensity
+id-2860-03,60,58,8,0,0.8,F,WHITE,Complex Cytogenetics,3,Regular
+id-2861-03,76,78,16,0,4,M,WHITE,Poor Risk Cytogenetics,3,Regular
+id-2862-03,33,100,6,0,0.9,F,BLACK,Normal Karyotype,2,Low intensity
+id-2863-03,63,81,16,97,46.4,M,WHITE,Poor Risk Cytogenetics,3,Regular
+id-2864-03,53,82,13,42,1.2,F,WHITE,Intermediate Risk Cytogenetics,2,High Intensity
+id-2865-03,75,40,16,48,6.4,M,WHITE,Intermediate Risk Cytogenetics,2,High Intensity
+id-2866-03,67,89,1,61,30.8,M,WHITE,Normal Karyotype,2,Regular
+id-2867-03,66,70,9,6,3.4,F,WHITE,Normal Karyotype,2,Regular
+id-2868-03,77,47,15,0,1.9,M,WHITE,Complex Cytogenetics,3,Target therapy
+id-2869-03,64,80,10,46,2.6,F,Non Hispanic,Normal Karyotype,2,Regular
+id-2870-03,76,73,8,55,34,M,WHITE,CBFB-MYH11,1,Target therapy
+id-2871-03,51,62,15,10,1.5,M,Non Hispanic,Normal Karyotype,2,Regular
+id-2872-03,42,88,10,2,2.1,M,BLACK,PML-RARA,1,Low intensity
+id-2873-03,51,57,2,0,14.9,F,Non Hispanic,Normal Karyotype,2,High Intensity
+id-2874-03,59,70,14,48,11.5,M,Non Hispanic,Poor Risk Cytogenetics,3,High Intensity
+id-2875-03,43,40,10,39,4.3,M,Non Hispanic,RUNX1-RUNX1T1,1,Low intensity
+id-2876-03,45,56,8,37,29.4,F,WHITE,Poor Risk Cytogenetics,3,Low intensity
+id-2877-03,60,86,21,43,11.5,F,WHITE,Normal Karyotype,2,High Intensity
+id-2878-03,47,37,13,0,12,F,WHITE,Complex Cytogenetics,3,Regular
+id-2879-03,68,90,5,91,59.9,F,Non Hispanic,Normal Karyotype,2,Regular
+id-2880-03,24,77,2,76,223.8,M,Non Hispanic,Normal Karyotype,2,High Intensity
+id-2881-03,48,75,7,41,33.2,F,Non Hispanic,CBFB-MYH11,1,Regular
+id-2882-03,73,37,15,16,1.7,F,WHITE,Poor Risk Cytogenetics,3,Regular
+id-2883-03,60,94,1,30,6.7,M,WHITE,MLL Translocation,3,Regular
+id-2884-03,44,86,6,17,13.5,F,WHITE,Normal Karyotype,2,High Intensity
+id-2885-03,71,97,13,54,5.4,M,Non Hispanic,Complex Cytogenetics,3,High Intensity
+id-2886-03,25,72,13,50,11,M,Non Hispanic,RUNX1-RUNX1T1,1,High Intensity
+id-2887-03,60,87,12,65,46.5,F,Non Hispanic,Poor Risk Cytogenetics,3,Low intensity
+id-2888-03,57,40,7,0,4.9,M,Non Hispanic,CBFB-MYH11,1,High Intensity
+id-2889-03,55,52,2,59,30.9,F,Unknown,CBFB-MYH11,1,Target therapy
+id-2890-03,69,60,7,22,6.1,M,Non Hispanic,Intermediate Risk Cytogenetics,2,High Intensity
+id-2891-03,42,68,14,51,10.7,M,Non Hispanic,Complex Cytogenetics,3,Target therapy
+id-2892-03,42,40,2,16,37.9,F,WHITE,CBFB-MYH11,1,Regular
+id-2893-03,45,95,9,6,5.1,M,WHITE,MLL Translocation,3,Target therapy
+id-2894-03,50,81,3,10,6.7,F,WHITE,MLL Translocation,2,High Intensity
+id-2895-03,41,92,12,90,134.4,F,Non Hispanic,N.D.,3,Regular
+id-2896-03,21,90,3,72,93,F,WHITE,Normal Karyotype,2,High Intensity
+id-2897-03,50,90,6,0,3.4,F,Non Hispanic,PML-RARA,1,High Intensity
+id-2898-03,69,42,12,32,10.1,F,Non Hispanic,Intermediate Risk Cytogenetics,2,Regular
+id-2899-03,76,37,13,0,2.7,F,WHITE,Intermediate Risk Cytogenetics,2,High Intensity
+id-2900-03,70,84,16,49,48,M,Unknown,Normal Karyotype,2,High Intensity
+id-2903-03,76,99,1,98,297.4,F,WHITE,Normal Karyotype,2,Low intensity
+id-2904-03,65,83,16,0,0.9,M,WHITE,Complex Cytogenetics,3,Target therapy
+id-2905-03,48,65,17,28,0.6,M,HISPANIC,PML-RARA,1,High Intensity
+id-2906-03,59,79,10,15,0.7,M,WHITE,PML-RARA,1,High Intensity
+id-2907-03,69,82,14,0,1.6,M,WHITE,Normal Karyotype,2,Regular
+id-2908-03,81,46,17,0,1.5,M,WHITE,Complex Cytogenetics,3,Regular
+id-2909-03,22,80,1,94,115.4,M,Non Hispanic,Normal Karyotype,2,Regular
+id-2910-03,61,71,12,55,34.6,F,WHITE,Complex Cytogenetics,3,Low intensity
+id-2911-03,51,39,2,39,50.3,F,black,MLL Translocation,3,Regular
+id-2912-03,63,62,19,9,17.9,M,WHITE,Intermediate Risk Cytogenetics,2,Low intensity
+id-2913-03,61,95,12,86,61.6,M,WHITE,Intermediate Risk Cytogenetics,2,High Intensity
+id-2914-03,22,55,14,70,51.8,F,WHITE,CBFB-MYH11,1,Target therapy
+id-2915-03,73,32,14,11,15.1,F,Non Hispanic,Complex Cytogenetics,3,Regular
+id-2916-03,49,51,9,5,12.4,F,WHITE,Intermediate Risk Cytogenetics,2,High Intensity
+id-2917-03,41,42,15,74,47.6,F,WHITE,Complex Cytogenetics,3,Target therapy
+id-2918-03,47,77,1,79,80.5,F,Non Hispanic,NUP98 Translocation,2,High Intensity
+id-2919-03,54,72,10,90,13.1,F,Non Hispanic,Normal Karyotype,2,Target therapy
+id-2920-03,44,39,10,83,34.8,M,WHITE,Complex Cytogenetics,3,High Intensity
+id-2921-03,55,69,8,57,27.6,F,Non Hispanic,Normal Karyotype,2,High Intensity
+id-2922-03,83,75,11,74,77.9,M,WHITE,Normal Karyotype,2,Regular
+id-2923-03,78,70,20,28,16.8,M,WHITE,Normal Karyotype,2,Target therapy
+id-2924-03,59,75,10,17,29.7,M,Non Hispanic,Normal Karyotype,2,Regular
+id-2925-03,57,52,16,4,99.2,M,WHITE,Normal Karyotype,2,High Intensity
+id-2926-03,57,91,14,91,19.8,F,WHITE,Intermediate Risk Cytogenetics,2,Regular
+id-2927-03,88,33,18,0,2.9,F,Non Hispanic,Normal Karyotype,2,High Intensity
+id-2928-03,43,87,10,91,171.9,F,Non Hispanic,Poor Risk Cytogenetics,3,High Intensity
+id-2929-03,71,55,12,50,5.6,F,WHITE,Complex Cytogenetics,3,Regular
+id-2930-03,62,72,8,49,27.7,F,Non Hispanic,NUP98 Translocation,2,Regular
+id-2931-03,75,76,11,80,98.2,M,WHITE,Normal Karyotype,2,Low intensity
+id-2932-03,62,85,6,22,59.3,M,WHITE,Normal Karyotype,2,High Intensity
+id-2933-03,58,79,1,64,101.3,M,WHITE,Intermediate Risk Cytogenetics,2,High Intensity
+id-2935-03,66,81,9,12,2.2,M,WHITE,Complex Cytogenetics,3,High Intensity
+id-2937-03,35,81,12,86,42.8,F,WHITE,RUNX1-RUNX1T1,1,High Intensity
+id-2938-03,76,33,17,6,3.6,M,WHITE,Normal Karyotype,2,Low intensity
+id-2939-03,72,88,12,18,37.5,M,WHITE,Complex Cytogenetics,3,Regular
+id-2940-03,35,34,3,40,33.5,M,WHITE,Intermediate Risk Cytogenetics,2,Regular
+id-2941-03,73,90,3,0,58.9,M,WHITE,BCR-ABL1,3,Low intensity
+id-2942-03,67,69,2,61,37,F,WHITE,CBFB-MYH11,1,Low intensity
+id-2943-03,70,32,11,6,0.7,F,Non Hispanic,Complex Cytogenetics,3,Target therapy
+id-2944-03,48,92,9,87,111,M,Non Hispanic,Poor Risk Cytogenetics,3,High Intensity
+id-2945-03,65,90,12,76,48.5,F,WHITE,Complex Cytogenetics,3,Regular
+id-2946-03,41,47,1,62,43.1,M,Non Hispanic,N.D.,3,High Intensity
+id-2947-03,52,75,3,51,298.4,M,Non Hispanic,Normal Karyotype,2,Regular
+id-2948-03,67,30,2,6,26.1,M,WHITE,Normal Karyotype,2,Regular
+id-2949-03,58,59,15,72,47.2,M,Native American,Complex Cytogenetics,3,High Intensity
+id-2950-03,34,57,9,59,14.3,F,WHITE,RUNX1-RUNX1T1,1,Regular
+id-2952-03,60,62,14,29,16,F,WHITE,Complex Cytogenetics,3,High Intensity
+id-2954-03,55,54,1,24,114.5,F,Unknown,CBFB-MYH11,1,Regular
+id-2955-03,56,60,12,96,202.7,F,WHITE,Normal Karyotype,2,High Intensity
+id-2956-03,61,89,3,0,8.4,M,WHITE,MLL Translocation,2,Regular
+id-2957-03,31,82,2,53,132.7,M,WHITE,CBFB-MYH11,1,High Intensity
+id-2959-03,71,90,23,13,1,M,WHITE,Intermediate Risk Cytogenetics,2,High Intensity
+id-2963-03,56,90,15,45,30.5,M,WHITE,Normal Karyotype,2,High Intensity
+id-2964-03,57,64,14,61,2.5,F,WHITE,Normal Karyotype,2,High Intensity
+id-2965-03,60,89,9,56,67.5,M,WHITE,Normal Karyotype,2,Low intensity
+id-2966-03,57,43,12,35,3.1,F,WHITE,Normal Karyotype,2,Regular
+id-2967-03,58,58,10,10,19.9,M,WHITE,Normal Karyotype,2,Regular
+id-2968-03,79,58,12,0,18.5,M,WHITE,Normal Karyotype,2,Regular
+id-2969-03,55,97,8,8,72.6,M,WHITE,Normal Karyotype,2,Regular
+id-2970-03,34,71,6,58,19.6,F,WHITE,Normal Karyotype,2,Low intensity
+id-2971-03,76,91,9,16,5,F,WHITE,Normal Karyotype,2,Regular
+id-2972-03,82,53,21,25,1.4,F,WHITE,Normal Karyotype,2,Regular
+id-2973-03,67,75,4,10,15.2,F,WHITE,Normal Karyotype,2,High Intensity
+id-2974-03,67,85,6,3,45.3,F,WHITE,Normal Karyotype,2,High Intensity
+id-2975-03,54,67,9,83,45,M,BLACK,Normal Karyotype,2,High Intensity
+id-2976-03,53,86,16,52,88.1,M,WHITE,Normal Karyotype,2,High Intensity
+id-2977-03,71,70,5,67,35.9,F,WHITE,Normal Karyotype,2,Regular
+id-2978-03,61,43,15,32,9.8,F,WHITE,Normal Karyotype,2,Regular
+id-2979-03,30,86,7,88,22.9,F,WHITE,Normal Karyotype,2,Low intensity
+id-2980-03,50,74,5,10,0.5,M,WHITE,PML-RARA,1,High Intensity
+id-2981-03,35,87,5,8,72.1,F,WHITE,Normal Karyotype,2,Low intensity
+id-2982-03,29,85,2,1,1.2,F,HISPANIC,PML-RARA,1,High Intensity
+id-2983-03,45,75,12,0,2.3,M,WHITE,Normal Karyotype,2,Low intensity
+id-2984-03,38,86,10,97,39.8,M,WHITE,Normal Karyotype,2,High Intensity
+id-2985-03,81,53,4,7,12.3,F,WHITE,MLL Translocation,2,Low intensity
+id-2986-03,31,63,12,45,12.6,F,WHITE,Normal Karyotype,2,Low intensity
+id-2987-03,75,41,7,0,7.3,F,WHITE,Normal Karyotype,2,Target therapy
+id-2988-03,67,76,13,49,45.6,F,WHITE,Normal Karyotype,2,Regular
+id-2989-03,29,45,11,9,2.2,M,WHITE,Normal Karyotype,2,High Intensity
+id-2990-03,51,85,8,85,63.7,M,WHITE,Normal Karyotype,2,Regular
+id-2991-03,40,90,8,0,0.4,F,WHITE,PML-RARA,1,Low intensity
+id-2992-03,32,94,8,70,5.1,F,WHITE,Normal Karyotype,2,High Intensity
+id-2993-03,57,100,12,91,102.5,F,WHITE,Normal Karyotype,2,Regular
+id-2994-03,25,91,6,63,8.2,M,WHITE,PML-RARA,1,Regular
+id-2995-03,63,35,5,0,0.6,M,WHITE,Normal Karyotype,2,High Intensity
+id-2996-03,75,63,12,2,2.5,M,WHITE,Normal Karyotype,2,Low intensity
+id-2997-03,25,93,10,40,16.3,F,WHITE,PML-RARA,1,High Intensity
+id-2998-03,68,85,5,32,29,F,WHITE,PML-RARA,1,Low intensity
+id-2999-03,62,82,8,11,0.9,M,WHITE,PML-RARA,1,Target therapy
+id-3000-03,25,56,3,71,98.8,M,WHITE,Normal Karyotype,2,High Intensity
+id-3001-03,31,40,11,0,1.6,F,WHITE,PML-RARA,1,High Intensity
+id-3002-03,68,64,22,48,5.5,M,WHITE,Normal Karyotype,2,High Intensity
+id-3005-03,45,81,13,0,1.6,M,WHITE,MLL Translocation,2,High Intensity
+id-3006-03,61,49,14,14,2.9,M,WHITE,Normal Karyotype,2,Regular
+id-3007-03,35,90,5,7,1.5,M,WHITE,PML-RARA,1,High Intensity
+id-3008-03,22,71,3,90,1.2,M,WHITE,Normal Karyotype,2,High Intensity
+id-3009-03,23,51,34,63,27.1,M,WHITE,Normal Karyotype,2,High Intensity
+id-3011-03,21,91,6,83,8.2,F,WHITE,Normal Karyotype,2,High Intensity
+id-3012-03,53,42,9,29,1,M,WHITE,PML-RARA,1,Regular
+id-09-00705,73,94,3,97,94,M,White,NPM1,2,Low intensity
+id-10-00136,69,80,3,19,282.1,M,White,Normal Karyotype,3,High Intensity
+id-10-00172,59,91,4,99,29.7,F,White,Normal Karyotype,2,High Intensity
+id-10-00507,70,97,5,97,112.3,F,White,NPM1,2,Regular
+id-10-00692,60,40,4,51,65.2,M,White,NPM1,2,Target therapy
+id-12-00023,71,68,,,14.9,F,White,AML-M5,2,High Intensity
+id-12-00051,55,88,,93,17.9,F,White,NPM1,2,Regular
+id-12-00069,71,81,5,60,179.1,M,HISPANIC,Normal Karyotype,3,High Intensity
+id-12-00127,53,93,21,99,64.3,M,White,NPM1,1,High Intensity
+id-12-00211,50,90,,82,84.1,F,White,NPM1,1,High Intensity
+id-12-00301,65,,,15,20.7,M,White,CBFB-MYH11,1,Low intensity
+id-13-00028,24,88,,94,21.7,M,White,Normal Karyotype,2,High Intensity
+id-13-00157,60,80,4,32,53.9,F,White,NPM1,1,High Intensity
+id-13-00163,24,50,1,6,13.8,M,Hispanic,CBFB-MYH11,1,High Intensity
+id-13-00165,33,,11,,,F,White,NPM1,2,Regular
+id-13-00195,66,90,9,24,28,M,White,NPM1,1,High Intensity
+id-13-00201,56,90,19,64,61.2,M,White,NPM1,2,High Intensity
+id-13-00204,65,72,16,57,9.8,F,White,PML-RARA,1,Low intensity
+id-13-00218,41,80,16,52,5.8,F,White,RUNX1-RUNX1T1,1,Regular
+id-13-00232,22,55,9,29,29.4,F,White,CEBPA,2,Regular
+id-13-00253,42,70,11,9,7.9,F,White,CEBPA,2,High Intensity
+id-13-00266,77,,,47,25.3,M,White,AML-MRC,3,High Intensity
+id-13-00273,51,,2,,21.7,F,White,NPM1,2,High Intensity
+id-13-00286,53,,7,,,M,White,NPM1,2,Regular
+id-13-00354,73,84,15,71,16.2,M,Asian,AML-M5,2,Regular
+id-13-00365,72,,5,,,F,White,NPM1,3,Regular
+id-13-00383,71,34,1,8,4.2,F,White,Normal Karyotype,2,Regular
+id-13-00393,52,21,17,5,3.42,M,HISPANIC,AML-MRC,3,High Intensity
+id-13-00396,63,51,9,3.5,5.23,M,White,AML-MRC,3,Target therapy
+id-13-00417,71,84,8,44,2,M,White,NPM1,2,Regular
+id-13-00424,77,,20,,,M,White,AML-MRC,3,Regular
+id-13-00425,40,84,1,29,9.1,F,White,Recurrent Genetic Abnormalities,2,Regular
+id-13-00466,71,,3,0,2,M,White,Normal Karyotype,2,High Intensity
+id-13-00497,33,72,7,18,26.3,F,White,CBFB-MYH11,1,Target therapy
+id-13-00513,55,75,3,,10.21,M,White,Recurrent Genetic Abnormalities,3,High Intensity
+id-13-00535,51,50,11,24,4.06,F,White,NPM1,1,Low intensity
+id-13-00563,64,,27,,,F,White,AML-MRC,3,High Intensity
+id-13-00602,63,,17,85,33,M,White,AML-MRC,3,Target therapy
+id-13-00614,67,20,3,,,M,White,AML-PEL,2,Regular
+id-13-00625,21,66,16,1,2.1,M,White,AML-MRC,3,Regular
+id-13-00659,55,54,9,54,16.66,M,White,Normal Karyotype,2,Regular
+id-14-00034,55,50,22,25,3.85,M,White,CEBPA,1,Regular
+id-14-00041,71,22,7,8,2.6,F,White,Recurrent Genetic Abnormalities,3,High Intensity
+id-14-00052,71,,22,,,M,White,Recurrent Genetic Abnormalities,3,Regular
+id-14-00096,56,72,11,88,12.9,M,White,AML-MRC,3,Low intensity
+id-14-00135,72,55,7,46,20.82,M,White,AML-MRC,3,Low intensity
+id-14-00141,85,,10,,,M,ASIAN,Normal Karyotype,2,Regular
+id-14-00152,75,64,2,7,4.67,M,White,Normal Karyotype,2,Regular
+id-14-00175,46,25.9,1,0.5,3.6,M,White,AML-M5,2,High Intensity
+id-14-00193,56,,3,54,8.2,M,White,CBFB-MYH11,1,Low intensity
+id-14-00228,46,80,6,45,57.23,F,White,NPM1,1,Target therapy
+id-14-00253,72,78,13,15,1.2,M,White,AML-MRC,3,Regular
+id-14-00259,65,70,6,,58.86,F,White,NPM1,2,Low intensity
+id-14-00272,34,87,11,87,99.3,F,Hispanic,CEBPA,1,Regular
+id-14-00355,78,,2,,,M,White,AML-M5,3,High Intensity
+id-14-00359,58,,19,,,M,White,CBFB-MYH11,1,High Intensity
+id-14-00404,54,29,10,0,2.12,M,White,AML-MRC,3,Regular
+id-14-00423,51,74,14,61,34.4,F,White,CBFB-MYH11,1,Regular
+id-14-00425,47,,5,,25.11,F,White,PML-RARA,1,Regular
+id-14-00430,75,62,28,17,2.37,F,White,AML-M2,3,High Intensity
+id-14-00447,48,,,,49.29,F,HISPANIC,Recurrent Genetic Abnormalities,2,Regular
+id-14-00464,22,65,3,90,40.2,F,White,Recurrent Genetic Abnormalities,2,Regular
+id-14-00473,62,22,17,17.4,10.75,F,White,AML-MRC,3,Regular
+id-14-00476,47,70,8,79,261.2,M,HISPANIC,AML-M5,2,High Intensity
+id-14-00487,44,86.1,11,65,11.38,F,White,Normal Karyotype,2,High Intensity
+id-14-00499,68,42,20,43.8,2.22,M,White,AML-M0,3,Low intensity
+id-14-00504,35,,22,,,M,White,Recurrent Genetic Abnormalities,3,Regular
+id-14-00559,68,79,12,54,41.4,M,White,NPM1,1,High Intensity
+id-14-00564,57,45,18,,5.92,M,White,AML-MRC,3,Regular
+id-14-00567,71,,10,,78.71,F,White,AML-M5,2,High Intensity
+id-14-00578,75,90,5,,98.9,M,White,AML-M5,2,High Intensity
+id-14-00599,69,,6,,2.05,M,White,AML-M0,3,High Intensity
+id-14-00632,64,90,18,30,6.44,F,White,Normal Karyotype,3,High Intensity
+id-14-00643,37,,10,,8.15,M,Asian,RUNX1-RUNX1T1,1,Regular
+id-14-00658,59,51.5,4,72,89.17,F,White,NPM1,2,Low intensity
+id-14-00664,75,,20,,1.31,M,White,AML-MRC,3,Low intensity
+id-14-00667,57,,23,,3.53,M,White,AML-MRC,3,High Intensity
+id-14-00690,49,54,14,3,,F,White,NPM1,1,Low intensity
+id-14-00725,32,24,9,2,1.4,F,White,Normal Karyotype,2,Low intensity
+id-14-00730,40,90,12,20,1.9,F,Hispanic,PML-RARA,1,High Intensity
+id-14-00739,39,,2,,21.12,M,White,Normal Karyotype,3,High Intensity
+id-14-00774,84,85,15,88,30,M,White,AML-M0,3,Regular
+id-14-00781,71,95,7,80,71.19,M,White,AML-M5,3,Target therapy
+id-14-00787,61,90,9,90.5,427.46,M,White,CEBPA,2,High Intensity
+id-14-00798,36,74,6,82,117.53,F,White,CBFB-MYH11,1,High Intensity
+id-14-00832,65,,15,30,31.66,F,White,AML-MRC,2,High Intensity
+id-14-00901,61,,7,,13.68,M,White,Normal Karyotype,2,Target therapy
+id-15-00009,71,40,,,0.9,M,White,AML-M1,2,Regular
+id-15-00024,75,,29,,,F,White,Normal Karyotype,2,High Intensity
+id-15-00029,80,21,,,64.6,M,White,Normal Karyotype,2,Target therapy
+id-15-00045,30,36,9,22,55,F,White,CBFB-MYH11,1,High Intensity
+id-15-00123,42,81,6,85,483,M,White,NPM1,2,Low intensity
+id-15-00167,42,50,2,55,93.94,M,White,NPM1,1,Regular
+id-15-00200,71,65,17,,1.6,F,White,NPM1,1,Regular
+id-15-00237,29,95,12,78,68.79,F,White,Normal Karyotype,2,Low intensity
+id-15-00261,43,,11,,22.95,F,White,Normal Karyotype,3,High Intensity
+id-15-00269,59,35,15,27.4,3.6,M,White,NPM1,1,Regular
+id-15-00276,60,90,16,39.6,70.84,M,White,NPM1,1,Regular
+id-15-00279,48,86,3,77,81,F,White,NPM1,2,Regular
+id-15-00302,65,,3,,,F,White,NPM1,1,Target therapy
+id-15-00303,64,,2,,8.69,M,White,CBFB-MYH11,1,High Intensity
+id-15-00331,60,33,23,23,29,M,White,CBFB-MYH11,1,Regular
+id-15-00338,42,92,8,83,,F,White,PML-RARA,1,High Intensity
+id-15-00470,32,,1,,7.19,M,Hispanic,PML-RARA,1,Target therapy
+id-15-00479,65,95,3,62,19.8,M,White,AML-MRC,3,Low intensity
+id-15-00492,29,,19,27.8,1.23,M,White,AML-M0,3,Regular
+id-15-00610,42,35,5,2,49.7,F,White,AML-M5,3,Regular
+id-15-00615,24,,13,,,F,ASIAN,CEBPA,3,High Intensity
+id-15-00616,68,,1,49,11.01,F,White,AML-MRC,3,Regular
+id-15-00653,52,83,5,48.6,22.1,F,White,Normal Karyotype,1,High Intensity
+id-15-00655,70,,17,,,F,White,AML-MRC,3,Regular
+id-15-00674,54,75,6,,37.2,F,White,AML-MRC,3,Low intensity
+id-15-00680,68,86,10,74.8,134.36,M,White,NPM1,2,Low intensity
+id-15-00688,63,41,11,2.6,1.61,F,White,AML-MRC,3,Low intensity
+id-15-00693,66,60,21,,14.94,F,White,Normal Karyotype,3,High Intensity
+id-15-00724,51,51,10,54,12,M,HISPANIC,NPM1,2,Regular
+id-15-00763,23,,2,,,M,White,RUNX1-RUNX1T1,3,Target therapy
+id-15-00858,76,95,11,0,27.17,F,White,NPM1,2,High Intensity
+id-15-00979,44,75,,80,69.84,F,White,NPM1,2,Target therapy
+id-16-00003,26,,8,,,M,White,NPM1,1,High Intensity
+id-16-00027,55,91,16,99.2,181.08,M,WHITE,Normal Karyotype,3,High Intensity
+id-16-00035,54,,17,97,175.91,F,White,NPM1,1,Target therapy
+id-16-00067,53,20,10,8,6.63,F,Hispanic,Normal Karyotype,2,Target therapy
+id-16-00120,36,91.8,1,95,55.42,M,White,PML-RARA,1,High Intensity
+id-16-00157,67,93,4,94,125.16,M,White,NPM1,1,Low intensity
+id-16-00232,58,78.3,9,37,2.64,M,White,AML-MRC,3,Regular
+id-16-00271,22,63,8,42,22.01,F,White,NPM1,2,High Intensity
+id-16-00273,62,,5,,,F,White,CEBPA,2,High Intensity
+id-16-00278,64,83,16,74,53.3,M,White,NPM1,1,Regular
+id-16-00289,65,95,8,92.9,166.91,F,White,NPM1,2,High Intensity
+id-16-00292,73,90,8,98.4,122.89,F,White,NPM1,1,Low intensity
+id-16-00460,58,,11,,4.17,M,White,Normal Karyotype,2,Regular
+id-16-00474,50,70,,91,71.1,M,Black,RUNX1-RUNX1T1,1,Regular
+id-16-00498,33,,1,,12.75,F,White,PML-RARA,1,High Intensity
+id-16-00510,34,60,12,28.9,6.13,M,Hispanic,Recurrent Genetic Abnormalities,3,Regular
+id-16-00519,47,,7,72.9,8.98,M,White,CEBPA,2,Regular
+id-16-00699,46,92,8,75,151.6,M,Hispanic,Normal Karyotype,2,Low intensity
+id-16-00867,61,93,4,85,30.54,F,White,NPM1,2,Low intensity
+id-16-00970,52,26,23,9.5,1.04,F,Black,AML-MRC,3,Low intensity
+id-16-01022,52,"51,5",9,0,116.57,F,White,NPM1,1,High Intensity
+id-16-01024,62,,,7,2.18,F,White,AML-MRC,2,Regular
+id-16-01049,78,20,3,3.8,4.9,M,Asian,Normal Karyotype,2,High Intensity
+id-16-01100,65,,17,,,M,White,NPM1,1,Regular
+id-16-01210,63,"26,3",2,12,9.28,M,White,AML-MRC,2,Regular
+id-16-01216,63,,3,,,M,White,AML-MRC,2,Target therapy
+id-16-01223,73,83,21,59,24.23,M,White,Normal Karyotype,2,Low intensity
+id-17-00064,55,"88,5",6,64,24.9,M,HISPANIC,NPM1,2,High Intensity
+id-2817-03,63,57,12,70,77.3,M,WHITE,BCR-ABL1,3,Regular
+id-2820-03,76,74,13,82,14.5,M,BLACK,Complex Cytogenetics,3,Regular
+id-2822-03,65,99,17,34,2.9,M,WHITE,Intermediate Risk Cytogenetics,2,Target therapy
+id-2828-03,55,35,9,8,22.2,M,WHITE,CBFB-MYH11,1,Low intensity
+id-2834-03,33,71,1,14,25.9,M,WHITE,MLL Translocation,3,High Intensity
+id-2842-03,64,95,1,0,2.3,M,WHITE,MLL Translocation,2,Regular
+id-2850-03,72,45,6,0,3,F,BLACK,N.D.,3,High Intensity
+id-2862-03,33,100,6,0,0.9,F,BLACK,Normal Karyotype,2,Low intensity
+id-2881-03,48,75,7,41,33.2,F,Non Hispanic,CBFB-MYH11,1,Regular
+id-2882-03,73,37,15,16,1.7,F,WHITE,Poor Risk Cytogenetics,3,Regular
+id-2884-03,44,86,6,17,13.5,F,WHITE,Normal Karyotype,2,High Intensity
+id-2889-03,55,52,2,59,30.9,F,Unknown,CBFB-MYH11,1,Target therapy
+id-2905-03,48,65,17,28,0.6,M,HISPANIC,PML-RARA,1,High Intensity
+id-2906-03,59,79,10,15,0.7,M,WHITE,PML-RARA,1,High Intensity
+id-2907-03,69,82,14,0,1.6,M,WHITE,Normal Karyotype,2,Regular
+id-2909-03,22,80,1,94,115.4,M,Non Hispanic,Normal Karyotype,2,Regular
+id-2910-03,61,71,12,55,34.6,F,WHITE,Complex Cytogenetics,3,Low intensity
+id-2919-03,54,72,10,90,13.1,F,Non Hispanic,Normal Karyotype,2,Target therapy
+id-2931-03,75,76,11,80,98.2,M,WHITE,Normal Karyotype,2,Low intensity
+id-2935-03,66,81,9,12,2.2,M,WHITE,Complex Cytogenetics,3,High Intensity
+id-2937-03,35,81,12,86,42.8,F,WHITE,RUNX1-RUNX1T1,1,High Intensity
+id-2942-03,67,69,2,61,37,F,WHITE,CBFB-MYH11,1,Low intensity
+id-2946-03,41,47,1,62,43.1,M,Non Hispanic,N.D.,3,High Intensity
+id-2975-03,54,67,9,83,45,M,BLACK,Normal Karyotype,2,High Intensity
+id-2987-03,75,41,7,0,7.3,F,WHITE,Normal Karyotype,2,Target therapy
+id-2997-03,25,93,10,40,16.3,F,WHITE,PML-RARA,1,High Intensity
+id-3006-03,61,49,14,14,2.9,M,WHITE,Normal Karyotype,2,Regular
+id-3007-03,35,90,5,7,1.5,M,WHITE,PML-RARA,1,High Intensity
+id-3012-03,53,42,9,29,1,M,WHITE,PML-RARA,1,Regular
+id-09-00705,73,94,3,97,94,M,White,NPM1,2,Low intensity
+id-10-00692,60,40,4,51,65.2,M,White,NPM1,2,Target therapy
+id-12-00023,71,68,,,14.9,F,White,AML-M5,2,High Intensity
+id-13-00165,33,,11,,,F,White,NPM1,2,Regular
+id-13-00195,66,90,9,24,28,M,White,NPM1,1,High Intensity
+id-13-00273,51,,2,,21.7,F,White,NPM1,2,High Intensity
+id-14-00141,85,,10,,,M,ASIAN,Normal Karyotype,2,Regular
+id-14-00175,46,25.9,1,0.5,3.6,M,White,AML-M5,2,High Intensity
+id-14-00476,47,70,8,79,261.2,M,HISPANIC,AML-M5,2,High Intensity
+id-14-00632,64,90,18,30,6.44,F,White,Normal Karyotype,3,High Intensity
+id-14-00725,32,24,9,2,1.4,F,White,Normal Karyotype,2,Low intensity
+id-14-00781,71,95,7,80,71.19,M,White,AML-M5,3,Target therapy
+id-15-00279,48,86,3,77,81,F,White,NPM1,2,Regular
+id-15-00470,32,,1,,7.19,M,Hispanic,PML-RARA,1,Target therapy
+id-15-00616,68,,1,49,11.01,F,White,AML-MRC,3,Regular
+id-15-00655,70,,17,,,F,White,AML-MRC,3,Regular
+id-16-01022,52,"51,5",9,0,116.57,F,White,NPM1,1,High Intensity
